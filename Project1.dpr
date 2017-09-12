@@ -3,7 +3,7 @@ program Project1;
 uses
   Vcl.Forms,
   Unit1 in 'Unit1.pas' {Form1},
-  uClassCFDiReader in 'includes\uClassCFDiReader.pas';
+  uClassCFDiReader in 'uClassCFDiReader.pas';
 
 {$R *.res}
 

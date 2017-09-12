@@ -39,6 +39,8 @@ object Form1: TForm1
     Height = 327
     Align = alLeft
     TabOrder = 2
+    ExplicitLeft = -376
+    ExplicitTop = 8
   end
   object OpenDialog1: TOpenDialog
     Left = 352
