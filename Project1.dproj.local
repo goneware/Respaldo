@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/06 23:13:28.000.198,=C:\Users\gonza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/06 23:13:56.000.575,C:\Users\gonza\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Repositorio\Respaldos\Unit1.dfm</Transaction>
+    <Transaction>2017/09/06 23:13:56.000.574,C:\Users\gonza\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Repositorio\Respaldos\Unit1.pas</Transaction>
+    <Transaction>2017/09/06 23:13:58.000.692,C:\Users\gonza\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Repositorio\Respaldos\Project1.dproj</Transaction>
+    <Transaction>2017/09/10 20:16:48.000.005,=C:\Repositorio\Respaldos\includes\uClassCFDiReader.pas</Transaction>
+  </Transactions>
+</BorlandProject>
